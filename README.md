@@ -1,9 +1,7 @@
 # DARE-Dataset
 A Reports Dataset for Global Misbehavior Authority Evaluation in C-ITS
 
-[Download Link Part 1](https://bit.ly/3g7bD3a "DARE Dataset Part 1")
-
-[Download Link Part 2](https://bit.ly/2YetvmN "DARE Dataset Part 2")
+[Download Link Part 1](https://mega.nz/folder/Wl11VKrb#2u9cmh9PRHqm6TGu12fm5w "DARE Dataset")
 
 The scientific publication is available on [ResearchGate](https://www.researchgate.net/publication/340547388_DARE_A_Reports_Dataset_for_Global_Misbehavior_Authority_Evaluation_in_C-ITS). If you find this dataset useful in your research, please consider citing:
 
